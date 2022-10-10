@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/EPOS_Linux_Library/examples/HelloEposCmd/Definitions.h
+
+/home/pi/Desktop/EPOS_Linux_Library/examples/HelloEposCmd/initial.cpp
+initial.h
+/home/pi/Desktop/EPOS_Linux_Library/examples/HelloEposCmd/initial.h
+
+/home/pi/Desktop/EPOS_Linux_Library/examples/HelloEposCmd/initial.h
+iostream
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+sstream
+-
+getopt.h
+-
+Definitions.h
+/home/pi/Desktop/EPOS_Linux_Library/examples/HelloEposCmd/Definitions.h
+

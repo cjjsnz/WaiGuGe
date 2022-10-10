@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/HelloEposCmd.dir/HelloEposCmd.cpp.o CMakeFiles/HelloEposCmd.dir/initial.cpp.o CMakeFiles/HelloEposCmd.dir/server.cpp.o CMakeFiles/HelloEposCmd.dir/tes.cpp.o CMakeFiles/HelloEposCmd.dir/emg_adc.c.o CMakeFiles/HelloEposCmd.dir/ADS1263.c.o CMakeFiles/HelloEposCmd.dir/DEV_Config.c.o  -o HelloEposCmd -lEposCmd -lbcm2835 

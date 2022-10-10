@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/usr/bin/gmake -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/junjie/CLionProjects/EPOS-Linux-Library-En/EPOS_Linux_Library/examples/HelloEposCmd
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/junjie/CLionProjects/EPOS-Linux-Library-En/EPOS_Linux_Library/examples/HelloEposCmd

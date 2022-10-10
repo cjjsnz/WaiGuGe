@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdlib.h": "c",
+        "bcm2835.h": "c"
+    }
+}
