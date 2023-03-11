@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/untitled1.dir/main.cpp.o CMakeFiles/untitled1.dir/widget.cpp.o CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.o  -o untitled1 /usr/lib/arm-linux-gnueabihf/libQt5Charts.so.5.15.2 /usr/lib/arm-linux-gnueabihf/libQt5Widgets.so.5.15.2 /usr/lib/arm-linux-gnueabihf/libQt5Gui.so.5.15.2 /usr/lib/arm-linux-gnueabihf/libQt5Core.so.5.15.2 

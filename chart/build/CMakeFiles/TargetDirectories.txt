@@ -1,0 +1,4 @@
+/home/pi/Desktop/chart/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/chart/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/chart/build/CMakeFiles/QTshiboqi.dir
+/home/pi/Desktop/chart/build/CMakeFiles/QTshiboqi_autogen.dir

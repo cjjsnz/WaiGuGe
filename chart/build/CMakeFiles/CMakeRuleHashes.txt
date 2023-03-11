@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+27ca047b99ec71ea3ab844ed57d76887 CMakeFiles/QTshiboqi_autogen

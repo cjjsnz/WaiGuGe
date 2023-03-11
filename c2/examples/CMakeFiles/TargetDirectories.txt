@@ -1,0 +1,3 @@
+/home/pi/ADC/High-Precision_AD_HAT_Code/c2/examples/CMakeFiles/rebuild_cache.dir
+/home/pi/ADC/High-Precision_AD_HAT_Code/c2/examples/CMakeFiles/edit_cache.dir
+/home/pi/ADC/High-Precision_AD_HAT_Code/c2/examples/CMakeFiles/main.dir
